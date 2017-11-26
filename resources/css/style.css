@@ -1,0 +1,70 @@
+* {
+  font-family: Helvetica;
+}
+
+/* Header Styling */
+.header {
+  color: white;
+  background-image: url('../images/flatiron.png');
+  background-size: 100%;
+  color: white;
+}
+
+.header h1{
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.header p {
+  font-size: 18px;
+}
+
+.headmain {
+  text-align: center;
+}
+/*Main Text Styling */
+.ny {
+  background-image: url('../images/flatiron.png');
+  background-size: 100%;
+  font-weight: bold;
+  color: white;
+  font-size: 23px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+/* Footer Styling */
+.footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
+/* Keeping the links from changing color */
+a {
+    color: white;
+}
+a:visited {
+    color: white ;
+}
+a:hover {
+    color: white ;
+}
+a:focus {
+    color: white ;
+}
+a:active {
+    color: white;
+}
